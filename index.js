@@ -124,7 +124,7 @@ let ucetambolunenler,
 /*  Bu satırın aşağısındaki kodları lütfen değiştirmeyin  */
 
 function sa() {
-  console.log("Kodlar çalışıyor");
+  console.log("Kodlar iyi çalışıyor");
   return "as";
 }
 sa();
